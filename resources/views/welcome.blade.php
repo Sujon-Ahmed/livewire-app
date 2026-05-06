@@ -12,7 +12,7 @@
 </head>
 <body>
 
-    <livewire:counter />
+    <livewire:todo-app />
 
     @livewireScripts
 </body>
